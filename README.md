@@ -4,13 +4,13 @@ using Python version 3.11.4
 
 Run the program using :  
 CMD_Spilit_Integer_Number_Digits.exe  
-or typing :  
+or using :  
 "python CMD_Split_Integer_Number_Digits.py" in Windows CMD  
-while CMD is in the CMD-split-integer-number-digits.py directory  
+while CMD is in the CMD-split-integer-number-digits-Python directory  
 
 You can see the program document using :  
 "python -m pydoc CMD_Split_Integer_Number_Digits"  
- while CMD is in the CMD-split-integer-number-digits.py directory  
+ while CMD is in the CMD-split-integer-number-digits-Python directory  
   
 Feel free to contact me at:  
 @ armanazarnik@gmail.com
